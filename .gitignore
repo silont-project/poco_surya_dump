@@ -1,0 +1,6 @@
+boot.img
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+system/system/apex/com.android.vndk.current.apex
+system_ext.img
